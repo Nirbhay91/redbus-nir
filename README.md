@@ -105,11 +105,8 @@ The Application Runs on localhost:3000
 
 ## Authors
 
-- [@MansurDewan](https://github.com/mansur3)
-- [@RaniKamna](https://github.com/RaniKamna)
-- [@PavanKalyan](https://github.com/Pavankalyan477)
-- [@SummitKumar](https://github.com/sumit-krk)
-- [@RanuRanjan](https://github.com/RanuRanjan)
+- [@Nirbhay](https://github.com/Nirbhay91)
+
 
 
 
